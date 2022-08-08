@@ -1,0 +1,40 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .about_right {
+        position: relative;
+        font-weight: 700;
+        font-size: 20px;
+        color: #00ffc9;
+        margin-left: 10%;
+        padding-top: 180px;
+    }
+
+    .right {
+        padding-top: 180px;
+    }
+
+    .cont {
+        font-size: 25px;
+        position: relative;
+        color: #ffffff;
+        margin-left: 10%;
+    }
+
+    .info_cont {
+        font-size: 10px;
+        margin-left: 10%;
+        color: #ffffff;
+    }
+
+    .readmore2 {
+        padding-top: 10px;
+        margin-top: 10px;
+        margin-left: 10%;
+    }
+
+    .about {
+        background-image: url('../img/lock.svg');
+        height: 420px;
+        background-size: cover;
+    }
+}
